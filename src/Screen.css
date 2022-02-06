@@ -1,0 +1,18 @@
+.screen {
+  height: 8rem;
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  color: white;
+  font-weight: 600;
+}
+
+.val-container {
+  padding: 10px;
+  font-size: 72px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
